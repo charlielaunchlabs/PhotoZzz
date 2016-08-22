@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="iOS/PhotoZzz.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhotoZzz/AddDunno.cs">
+    <Files>
+      <File FileName="PhotoZzz/Sizer.cs" Line="19" Column="1" />
+      <File FileName="PhotoZzz/AddDunno.cs" Line="53" Column="64" />
+      <File FileName="PhotoZzz/MainPage.cs" Line="20" Column="18" />
+      <File FileName="iOS/Main.cs" Line="18" Column="1" />
+      <File FileName="PhotoZzz/GetAll.cs" Line="15" Column="18" />
+      <File FileName="PhotoZzz/CustomEntry.cs" Line="11" Column="4" />
+      <File FileName="iOS/EntryC.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhotoZzz.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C3B3234B-BAE2-4A0E-8E64-FCE5772F4147" />
+  <MonoDevelop.Ide.ItemProperties.PhotoZzz.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+</Properties>
